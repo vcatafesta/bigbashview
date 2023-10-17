@@ -21,7 +21,6 @@ import argparse
 import sys
 import os
 from bbv import globaldata
-from bbv.server.bbv2server import run_server
 from setproctitle import setproctitle
 
 class Main:
@@ -102,7 +101,7 @@ class Main:
         parser.add_argument(
             '-w', '--window_state', default=None,
             help='''Window state: fullscreen, maximized, fixed,
-              frameless, alwaystop''')
+              frameless, alwaystop, framelesstop, maximizedframelesstop''')
 
         args = parser.parse_args()
         self.url = args.url
@@ -154,7 +153,7 @@ class Main:
         if args.window_state in [
             'fullscreen', 'maximized',
             'fixed', 'frameless',
-            'alwaystop', None
+            'alwaystop', 'framelesstop', 'maximizedframelesstop', None
         ]:
             self.window_state = args.window_state
         else:
@@ -180,27 +179,27 @@ class Main:
                     sys.exit(1)
 
         if self.toolkit == 'gtk':
-            if not check_gtk:
-                try:
-                    from bbv.ui import gtk
-                except ImportError as e:
-                    print(e)
-                    print('Please install WebKitGtk2')
-                    sys.exit(1)
+            try:
+                from bbv.ui import gtk
+            except ImportError as e:
+                print(e)
+                print('Please install WebKitGtk2')
+                sys.exit(1)
             os.environ['GDK_BACKEND'] = 'x11'
-            os.environ['WEBKIT_FORCE_SANDBOX'] = '0'
+            os.environ['WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS'] = '1'
+            os.environ['WEBKIT_DISABLE_COMPOSITING_MODE'] = '1'
+            os.environ['WEBKIT_HARDWARE_ACCELERATION_POLICY_NEVER'] = '1'
             self.window = gtk.Window()
             if globaldata.TITLE:
                 self.window.set_wmclass(globaldata.TITLE, globaldata.TITLE)
 
         if self.toolkit == 'qt':
-            if not check_qt:
-                try:
-                    from bbv.ui import qt
-                except ImportError as e:
-                    print(e)
-                    print('Please install PyQt5')
-                    sys.exit(1)
+            try:
+                from bbv.ui import qt
+            except ImportError as e:
+                print(e)
+                print('Please install PyQt5')
+                sys.exit(1)
             os.environ['QTWEBENGINE_CHROMIUM_FLAGS'] = '--disable-logging --disable-gpu --no-sandbox --single-process --disable-gpu-compositing --autoplay-policy=no-user-gesture-required --font-render-hinting=none'
             os.environ['QT_QUICK_BACKEND'] = 'software'
             os.environ['QSG_RENDER_LOOP'] = 'basic'
@@ -209,6 +208,7 @@ class Main:
             self.window = qt.Window()
 
     def run(self, start_server=True):
+        from bbv.server.bbv2server import run_server
         server = run_server() if start_server else None
 
         if self.url.find('://') == -1:

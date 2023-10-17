@@ -89,6 +89,20 @@ msgstr  ""
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 72
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
@@ -115,9 +129,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 82
 msgid   "Voltar"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -195,9 +230,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 84
 msgid   "Avançar"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -275,9 +331,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 86
 msgid   "Recarregar"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -355,9 +432,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 88
 msgid   "Copiar"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -435,9 +533,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 90
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 90
 msgid   "Recortar"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -515,9 +634,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 92
 msgid   "Colar"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -595,9 +735,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 94
 msgid   "Selecionar tudo"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -675,9 +836,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 96
 msgid   "Desfazer"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -755,9 +937,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 98
 msgid   "Refazer"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -835,9 +1038,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 102
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 102
 msgid   "Copiar endereço do link"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -915,9 +1139,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 104
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 104
 msgid   "Inspecionar"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -995,9 +1240,30 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 106
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 106
 msgid   "Copiar imagem"
 msgstr  ""
 
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
@@ -1075,6 +1341,13 @@ msgstr  ""
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
 # File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 108
+# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt5.py, line: 108
 msgid   "Copiar endereço da imagem"
 msgstr  ""
 
@@ -1129,6 +1402,27 @@ msgstr  ""
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
@@ -1209,6 +1503,27 @@ msgstr  ""
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 17
@@ -1289,6 +1604,27 @@ msgstr  ""
 #
 # #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
 #
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# #-#-#-#-#  bigbashview.pot (bigbashview)  #-#-#-#-#
+#
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
+# File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
