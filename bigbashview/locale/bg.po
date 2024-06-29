@@ -16,89 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Information"
-msgstr "Информация"
-
-msgid "License: "
-msgstr "Лиценз: "
-
-msgid "Created by:"
-msgstr "Създаден от:"
-
-msgid "Date:"
-msgstr "Дата:"
-
-msgid "Code URL:"
-msgstr "URL адрес на кода:"
-
-msgid "Project URL:"
-msgstr "URL адрес на проекта:"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 72
-msgid "Voltar"
-msgstr "Върни се"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 74
-msgid "Avançar"
-msgstr "Аванс"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 76
-msgid "Recarregar"
-msgstr "Презареди"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 78
-msgid "Copiar"
-msgstr "Копирам"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 80
-msgid "Recortar"
-msgstr "Режа"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 82
-msgid "Colar"
-msgstr "Колие"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 84
-msgid "Selecionar tudo"
-msgstr "Избери всички"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 86
-msgid "Desfazer"
-msgstr "Отменям"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 88
-msgid "Refazer"
-msgstr "Ремонтирам"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 92
-msgid "Copiar endereço do link"
-msgstr "Копиране на адреса на връзката"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 94
-msgid "Inspecionar"
-msgstr "Инспектира"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 96
-msgid "Copiar imagem"
-msgstr "Копиране на изображение"
-
-# 
-# File: bigbashview/bigbashview/usr/lib/bbv/ui/qt.py, line: 98
-msgid "Copiar endereço da imagem"
-msgstr "Копиране на адрес на изображение"
-
 # 
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 16
 msgid "Bem-vindo ao BigBashView"
@@ -113,18 +30,3 @@ msgstr "Име на хост"
 # File: bigbashview/bigbashview/usr/lib/bbv/server/html.py, line: 18
 msgid "Ambiente de Trabalho"
 msgstr "Работна среда"
-
-msgid "Bom dia"
-msgstr "Добро утро"
-
-msgid "Boa tarde"
-msgstr "Добър ден"
-
-msgid "Boa noite"
-msgstr "Лека нощ"
-
-msgid "Configurações da tela"
-msgstr "Настройки на екрана"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Настройките на екрана са нулирани."
